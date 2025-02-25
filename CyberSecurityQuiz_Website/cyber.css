@@ -5,8 +5,8 @@
     box-sizing: border-box;
 }
 body{
-    background: -webkit-linear-gradient(to right, #2948ff, #396afc); 
-    background: linear-gradient(to right, #2948ff, #396afc); 
+    background: url('cyber.jpg') no-repeat center center fixed; 
+    background-size: cover; 
     
 }
 .app{
