@@ -1,29 +1,29 @@
 const questions = [
     {
-        question: "What does the acronym AES stand for?",
+        question: "Tushar ki kitni gf reh chuki h?",
         answers: [
-            {text:"Automated Encryption Strength", correct:"false"},
-            {text:"Advanced Encryption Strength", correct:"false"},
-            {text:"Algorithm Encrypted System", correct:"true"},
-            {text:"Advanced Encryption System", correct:"false"},
+            {text:"Ek", correct:"false"},
+            {text:"Ek se zyada", correct:"false"},
+            {text:"10", correct:"true"},
+            {text:"Bhai single h", correct:"false"},
         ]
     },
     {
-        question: "What does the acronym AES stand for?",
+        question: "Arish ka fav time pass?",
         answers: [
-            {text:"Automated Encryption Strength", correct:"false"},
-            {text:"Advanced Encryption Strength", correct:"true"},
-            {text:"Algorithm Encrypted System", correct:"false"},
-            {text:"Advanced Encryption System", correct:"false"},
+            {text:"Sona", correct:"true"},
+            {text:"Gym krna", correct:"true"},
+            {text:"Ladki ghumana", correct:"true"},
+            {text:"Hasna", correct:"true"},
         ]
     },
     {
-        question: "What does the acronym AES stand for?",
+        question: "Prashil college kyun nhi aata h?",
         answers: [
-            {text:"Automated Encryption Strength", correct:"false"},
-            {text:"Advanced Encryption Strength", correct:"true"},
-            {text:"Algorithm Encrypted System", correct:"false"},
-            {text:"Advanced Encryption System", correct:"false"},
+            {text:"Pasand nhi h", correct:"false"},
+            {text:"Ladkibaazi krte h isliye", correct:"true"},
+            {text:"Aaraam pasand h", correct:"false"},
+            {text:"Ese hi", correct:"false"},
         ]
     },
 ];
