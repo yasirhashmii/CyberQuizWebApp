@@ -1,29 +1,29 @@
 const questions = [
     {
-        question: "Tushar ki kitni gf reh chuki h?",
+        question: "Question goes here.",
         answers: [
-            {text:"Ek", correct:"false"},
-            {text:"Ek se zyada", correct:"false"},
-            {text:"10", correct:"true"},
-            {text:"Bhai single h", correct:"false"},
+            {text:"A", correct:"false"},
+            {text:"B se zyada", correct:"false"},
+            {text:"C", correct:"true"},
+            {text:"D", correct:"false"},
         ]
     },
     {
-        question: "Arish ka fav time pass?",
+        question: "Question goes here.",
         answers: [
-            {text:"Sona", correct:"true"},
-            {text:"Gym krna", correct:"true"},
-            {text:"Ladki ghumana", correct:"true"},
-            {text:"Hasna", correct:"true"},
+            {text:"A", correct:"true"},
+            {text:"B", correct:"true"},
+            {text:"C", correct:"true"},
+            {text:"D", correct:"true"},
         ]
     },
     {
-        question: "Prashil college kyun nhi aata h?",
+        question: "Question goes here.",
         answers: [
-            {text:"Pasand nhi h", correct:"false"},
-            {text:"Ladkibaazi krte h isliye", correct:"true"},
-            {text:"Aaraam pasand h", correct:"false"},
-            {text:"Ese hi", correct:"false"},
+            {text:"A", correct:"false"},
+            {text:"B", correct:"true"},
+            {text:"C", correct:"false"},
+            {text:"D", correct:"false"},
         ]
     },
 ];
